@@ -1,9 +1,0 @@
-[project]
-name = "duomate"
-version = "0.1.0"
-description = "Flask backend for Duomate"
-dependencies = [
-  "flask",
-  "flask-cors",
-  "apscheduler"
-]
